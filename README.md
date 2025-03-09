@@ -26,8 +26,8 @@ I'm **Ankita Dhara**, a passionate **Software Developer** currently pursuing my 
 ---
 
 ### 🌱 What I’m Learning  
-📚 Deepening my understanding of **system design** and **software architecture**.  
-📚 Exploring **cloud computing** and **Kubernetes**.  
+📚 Deepening my understanding of **web-development** and **software architecture**.  
+📚 Exploring **python**.  
 📚 Studying **data structures and algorithms** for placements.  
 
 ---
