@@ -9,7 +9,7 @@ I'm **Ankita Dhara**, a passionate **Software Developer** currently pursuing my 
 
 ### 🎯 Skills & Tech Stack  
 #### **Programming Languages**  
-🖥️ C | C++ | Python | JavaScript | SQL  
+🖥️ C | C++ | Java | Python | JavaScript | SQL  
 
 #### **Backend Development**  
 🛠️ Node.js | Express.js | FastAPI  
