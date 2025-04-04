@@ -32,10 +32,7 @@ I'm **Ankita Dhara**, a passionate **Software Developer** currently pursuing my 
 🌐 React.js | HTML | CSS  
 
 #### **Databases & ORMs**  
-📊 PostgreSQL | SQLite | Prisma  
-
-#### **Tools & Other Technologies**  
-⚙️ Git | Docker | Postman | RabbitMQ | Redis  
+📊 PostgreSQL | SQLite 
 
 ---
 
