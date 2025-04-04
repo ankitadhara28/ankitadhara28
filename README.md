@@ -60,15 +60,6 @@ A fun **Python-based** CLI game where users play against the computer with cool 
 ---
 
 ### 💌 Get in Touch!  
-📧 Email: ankita.how.dhara@gmail.com  
-🌟 LinkedIn: [Ankita Dhara](https://www.linkedin.com/in/ankita-dhara-7333a2299/)
-
-
-📞 **Repo:** [Rock-Paper-Scissors Game](https://github.com/ankitadhara28/rock-paper-scissors-game)  
-
----
-
-### 💌 Get in Touch!  
 📧 Email: ankita.how.dhara@gmail.com
 🌟 LinkedIn: https://www.linkedin.com/in/ankita-dhara-7333a2299/ 
 
