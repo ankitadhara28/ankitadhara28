@@ -9,7 +9,8 @@ I'm **Ankita Dhara**, a passionate **Software Developer** currently pursuing my 
 🔹 I love building scalable and interactive applications.  
 🔹 I enjoy exploring **backend architectures** and designing APIs.  
 🔹 I have a keen interest in **AI-powered projects** and **automation**.  
-🔹 I’m currently working on **TaskMasterAPI**, a lightweight task management API, and   **DineEaseAPI**, a restaurant and dish management API.  
+🔹 I’m currently working on **TaskMasterAPI**, a lightweight task management API, 
+   and  **DineEaseAPI**, a restaurant and dish management API.  
 
 </td>
     <td valign="top" width="30%">
