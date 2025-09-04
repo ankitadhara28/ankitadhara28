@@ -3,7 +3,7 @@ I'm Ankita Dhara, a passionate Software Developer currently pursuing my B.E. in 
 <table>
   <tr>
     <td valign="top" width="70%">
-### 🚀 About Me  
+# 🚀 About Me  
 🔹 I love building scalable and interactive applications.  
 🔹 I enjoy exploring backend architectures and designing APIs.  
 🔹 I have a keen interest in AI-powered projects and automation.  
@@ -16,23 +16,23 @@ I'm Ankita Dhara, a passionate Software Developer currently pursuing my B.E. in 
   </tr>
 </table>
 ---
-### 🎯 Skills & Tech Stack  
-#### Programming Languages  
+🎯 Skills & Tech Stack  
+Programming Languages  
 🖥️ C | C++ | Java | Python | JavaScript | SQL  
-#### Backend Development  
+ Backend Development  
 🛠️ Node.js | Express.js | FastAPI  
-#### Frontend Development  
+ Frontend Development  
 🌐 React.js | HTML | CSS  
 #### Databases & ORMs  
 📊 PostgreSQL | SQLite 
 ---
-### 🌱 What I’m Learning  
+ 🌱 What I’m Learning  
 📚 Deepening my understanding of web-development and software architecture.  
 📚 Exploring Python.  
 📚 Studying data structures and algorithms for placements.  
 ---
-### 📚 Noteworthy Projects  
-#### 1️⃣ TaskMasterAPI 🚀  
+ 📚 Noteworthy Projects  
+ 1️⃣ TaskMasterAPI 🚀  
 A task management API built with Node.js and Express.js. Supports adding, editing, deleting, sorting, and filtering tasks.  
 📞 Repo: [TaskMasterAPI](https://github.com/ankitadhara28/TaskMasterAPI)  
 #### 2️⃣ DineEaseAPI 🍽️  
