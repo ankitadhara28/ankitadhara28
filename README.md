@@ -1,4 +1,4 @@
-# Hi there! 👋🏼  
+ 
 # Hey there 👋, I'm Ankita  
 
 I like exploring new things—sometimes I end up building ML models, sometimes just making my cat pose for photos.  
