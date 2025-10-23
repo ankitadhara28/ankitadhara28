@@ -1,22 +1,7 @@
 # Hi there! 👋🏼  
-I'm Ankita Dhara, a passionate Software Developer currently pursuing my B.E. in Information Technology at Jadavpur University. I have a deep interest in Full-Stack Development, Database Management, and Software Architecture.  
-<table>
-  <tr>
-    <td valign="top" width="70%">
-# 🚀 About Me  
-🔹 I love building scalable and interactive applications.  
-🔹 I enjoy exploring backend architectures and designing APIs.  
-🔹 I have a keen interest in AI-powered projects and automation.  
-🔹 I’m currently working on TaskMasterAPI, a lightweight task management API, 
-   and  DineEaseAPI, a restaurant and dish management API.  
-</td>
-    <td valign="top" width="30%">
-      <img src="https://github.com/ankitadhara28/ankitadhara28/blob/main/giblime.jpg?raw=true" alt="Ghibli Vibes" width="250" />
-    </td>
-  </tr>
-</table>
----
+# Hey there 👋, I'm Ankita  
 
-### 💌 Get in Touch!  
-📧 Email: ankita.how.dhara@gmail.com
-🌟 LinkedIn: https://www.linkedin.com/in/ankita-dhara-7333a2299/
+I like exploring new things—sometimes I end up building ML models, sometimes just making my cat pose for photos.  
+Curious about almost everything, a bit of a chaos enthusiast, and I laugh at my own jokes 😅  
+Always learning, experimenting, and occasionally pretending to know what I'm doing 🚀
+
