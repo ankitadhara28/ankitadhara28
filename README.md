@@ -1,29 +1,33 @@
- 
 # Hey there 👋, I'm Ankita  
 
-I like exploring new things—sometimes building ML models, sometimes convincing my cat to cooperate for photos.  
-Curious about almost everything, a bit of a chaos enthusiast, and I laugh at my own jokes 😅  
-Always learning, experimenting, and occasionally pretending to know what I'm doing 🚀 
+Building ML models by day, bribing my cat with treats for photos by night 📸.  
+Endlessly curious, comfortably chaotic, and yes—I laugh at my own jokes 😅.  
+Always learning, always experimenting, always one Stack Overflow search away from enlightenment 🚀
 
-## Connect with me :
+## Let's Connect ✨
 
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/ankita-dhara-7333a2299/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
-         alt="LinkedIn" width="45" height="45" style="border-radius:50%; margin-right:10px;">
+         alt="LinkedIn" width="48" height="48" 
+         style="border-radius: 12px; margin-right: 18px; transition: transform 0.2s;">
   </a>
-
+  
   <!-- Email -->
-  <a href="mailto:YOUREMAIL@example.com">
+  <a href="ankita.how.dhara@gmail.com" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
-         alt="Email" width="45" height="45" style="border-radius:50%; margin-right:10px;">
+         alt="Email" width="48" height="48" 
+         style="border-radius: 12px; margin-right: 18px; transition: transform 0.2s;">
   </a>
-
+  
   <!-- Instagram -->
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/" target="_blank">
+  <a href="https://www.instagram.com/ankita._.dhara/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" 
-         alt="Instagram" width="45" height="45" style="border-radius:50%;">
+         alt="Instagram" width="48" height="48" 
+         style="border-radius: 12px; transition: transform 0.2s;">
   </a>
 </p>
+
+---
 
