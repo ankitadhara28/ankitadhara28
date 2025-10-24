@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Ankita  
 
-Building ML models by day, bribing my cat with treats for photos by night 📸.  
+I like exploring new things—sometimes I end up building ML models by the day and bribing my cat with treats for photos by night 📸.  
 Endlessly curious, comfortably chaotic, and yes—I laugh at my own jokes 😅.  
 Always learning, always experimenting, always one Stack Overflow search away from enlightenment 🚀
 
